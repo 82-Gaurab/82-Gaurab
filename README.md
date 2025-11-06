@@ -1,10 +1,12 @@
 <!-- For logo -->
 <!-- ![logo](https://github.com/82-Gaurab/Tryout/blob/main/mountain.jpg) -->
 
-![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
+<!-- ![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
 
 <h1 align="center">Hi 👋, I'm Gaurab Khadka</h1>
 <h3 align="center">Just a pirate lost in the endless sea of code.</h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
