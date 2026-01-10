@@ -30,12 +30,12 @@
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif"  /> 
+<!-- <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif"  />  -->
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hnbmp2OXp2NjdycXZmdzhxeHRxNmlyYXBudnFxcjZ0Y2xtNGtwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR4nTITFb39YljKDJ7/giphy.gif"  /> 
 
 <img align="right" height="170" src="https://github.com/82-Gaurab/Tryout/blob/main/octocat.png" alt="image host"/>
 
-<!-- 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hnbmp2OXp2NjdycXZmdzhxeHRxNmlyYXBudnFxcjZ0Y2xtNGtwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fR4nTITFb39YljKDJ7/giphy.gif"  /> -->
 
 ###
 <h3 align="left">Languages and Tools:</h3>
